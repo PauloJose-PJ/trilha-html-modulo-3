@@ -52,7 +52,7 @@ main section {
   border-bottom: solid 1px #cdcdcd;
 }
 
-content {
+#conteudo {
   max-width: 1440px;
   margin: auto;
   grid-gap: 3rem;
